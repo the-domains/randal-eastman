@@ -1,0 +1,28 @@
+name: Randal Eastman
+favicon: null
+layout_spectrum: 0.6819296209141612
+typography_spectrum: 0.04648669995367527
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1908421127591282
+  lightness: 0.8881895109079778
+  saturation: 0.0026872071903198957
+  rhythmicContrast: 0.6647770896088332
+purpose: []
